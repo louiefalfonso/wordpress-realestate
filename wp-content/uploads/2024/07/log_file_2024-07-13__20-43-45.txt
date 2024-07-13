@@ -1,0 +1,107 @@
+
+---Downloaded files---
+The import files for: Realar Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8888/wprealestate
+Data file = /Applications/MAMP/htdocs/wprealestate/wp-content/themes/realar/inc/demo-data/realar-demo.xml
+Widget file = /Applications/MAMP/htdocs/wprealestate/wp-content/themes/realar/inc/demo-data/realar-widgets-demo.json
+Customizer file = not defined!
+Redux files:
+realar_opt -> /Applications/MAMP/htdocs/wprealestate/wp-content/themes/realar/inc/demo-data/redux_options_demo.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Realar :: Search Form - No Title - Imported
+Realar :: Category List - Post Categories - Imported
+Realar :: Recent Posts - Recent Posts - Imported
+Block - No Title - Imported
+
+Page Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+Footer Widgets Area 1 : 
+
+Realar :: About Us Widget - No Title - Imported
+
+Footer Widgets Area 2 : 
+
+Block - No Title - Imported
+
+Footer Widgets Area 3 : 
+
+Navigation Menu - Useful Link - Imported
+
+Footer Widgets Area 4 : 
+
+Navigation Menu - Explore - Imported
+
+Offcanvas Sidebar : 
+
+Realar :: About Us Widget - No Title - Imported
+Block - No Title - Imported
+Realar :: Newsletter - Subscribe Now - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: realar_opt finished successfully!
+
+---ocdi/after_import---
+
